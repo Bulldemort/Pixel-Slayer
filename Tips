@@ -1,0 +1,8 @@
+Helpful tips
+- Song selection
+When adding the songs onto the sd card the order of which the files are on the card is important.
+When adding the songs, file number one will play in the slot named paranoid when selecting the song on the start screen, file two being the next one and so on and so forth.
+The files should all be in an mp3 format for them to play properly.
+- trouble-shooting issues
+If you run into an issue with the project during the build process such as the songs won't play or the leds won't come on check the wire connections and make sure they're all properly secured and connected.
+If that doesn't work, start replacing the pieces one by one. For example, if the songs wont play try replacing the DF player then test, then replace the resistor then test so on and so forth.
